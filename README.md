@@ -7,7 +7,7 @@ Technologies:
 - Python 3;
 - Docker.
 
-####Prerequisites
+#### Prerequisites
 You need to install packages to project's environment (requirements.txt):
 - certifi==2019.11.28
 - chardet==3.0.4
@@ -23,13 +23,13 @@ or simple perform:
 - cd to root project's directory;
 - run command - pip3 install -r requirements.txt
 
-####Running via Terminal or IDE:
+#### Running via Terminal or IDE:
 - You need to go to @BotFather (inside Telegram), create new bot and get your own unique token;
 - You need to go to https://openweathermap.org/ and get your own unique API token;
 - Change config.py with these tokens;
 - Run the project - python3 bot.py.
 
-####Running via Docker:
+#### Running via Docker:
 - set up Docker;
 - enter to terminal;
 - cd to root project's directory;
